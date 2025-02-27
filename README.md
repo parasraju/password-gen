@@ -34,7 +34,7 @@ A simple and secure password generator built with Python to create strong and ra
 ```sh
 Enter password length: 12
 Generated Password: A@1bC$dE4!F5
-Rename the day.py to accordingly and then use cd command 
+Rename the day6.py to accordingly and then use cd command 
 ```
 
 ## Technologies Used 🖥️
